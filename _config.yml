@@ -1,1 +1,16 @@
-theme: jekyll-theme-tactile
+# Site settings
+title: Jinghao Niu | CASIA
+email: niujinghao2015@ia.ac.cn
+description: > # this means to ignore newlines until "baseurl:"
+  Jinghao.Niu | CASIA
+baseurl: "/" # the subpath of your site, e.g. /blog/
+url: "https://windniu.github.io" # the base hostname & protocol for your site
+twitter_username: windniu
+github_username:  windniu
+
+# Build settings
+markdown: kramdown
+
+# Google Analytics
+google_analytics: UA-121544346-1
+
