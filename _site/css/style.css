@@ -1020,13 +1020,13 @@
 					border: 0;
 					color: #ffffff !important;
 					display: block;
-					padding: 0.85em 0;
+					padding: 0.45em 0;
 					text-decoration: none;
 				}
 
 					#header > nav ul li a.active, #header > nav ul li .cc-active {
 						background: #444222;
-						color: #fffde2 !important;
+						color: #7ffdef !important;
 					}
 
 				#header > nav ul li:first-child {
