@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://jinghao-niu.ac.cn/</loc>
+  <lastmod>2022-02-22T17:23:11+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://jinghao-niu.ac.cn/publication.html</loc>
+  <lastmod>2022-02-22T17:23:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jinghao-niu.ac.cn/images/Jinghao_Ch.pdf</loc>
+  <lastmod>2022-02-22T17:23:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jinghao-niu.ac.cn/images/ICPR2018_poster.pdf</loc>
+  <lastmod>2022-02-22T17:23:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jinghao-niu.ac.cn/images/icia2015.pdf</loc>
+  <lastmod>2022-02-22T17:23:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jinghao-niu.ac.cn/photo.html</loc>
+  <lastmod>2022-02-22T17:23:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jinghao-niu.ac.cn/images/Jinghao_En.pdf</loc>
+  <lastmod>2022-02-22T17:23:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
